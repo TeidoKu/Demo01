@@ -3,8 +3,9 @@ x = 3
 print("content changed")
 
 def tfunction():
-    y = 1 
-    print(y + x)
+    y = 1
+    b1 = 3
+    print(y + x +b1)
 
 def newfunc():
     t = 2
