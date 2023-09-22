@@ -5,7 +5,11 @@ print("content changed")
 def tfunction():
     y = 1
     b1 = 3
-    print(y + x +b1) 
+    print(y + x +b1)
+
+def newfunc():
+    t = 2
+    print(t+1)
 
 
 if x == 3:
