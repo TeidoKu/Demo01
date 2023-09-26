@@ -11,11 +11,14 @@ def newfunc():
     t = 2
     print(t+1)
 
+<<<<<<< Updated upstream
 def newstuff():
     print("hi")
 def blah():
     print("eee")
 
+=======
+>>>>>>> Stashed changes
 if x == 3:
     print("it's a fact")
 else:
