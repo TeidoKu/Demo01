@@ -9,7 +9,7 @@ def tfunction():
 
 def newfunc():
     t = 2
-    print(t+1)
+    print("e")
 
 def new45():
     print("hi")
