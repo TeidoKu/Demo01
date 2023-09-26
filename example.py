@@ -12,7 +12,7 @@ def newfunc():
     print(t+1)
 
 def newstuff():
-    print("hello")
+    print("hi")
 
 if x == 3:
     print("it's a fact")
