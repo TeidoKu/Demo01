@@ -16,6 +16,10 @@ def newstuff():
 def blah():
     print("eee")
 
+def conflect():
+    print("234")
+
+
 if x == 3:
     print("it's a fact")
 else:
