@@ -1,2 +1,2 @@
 def new():
-    print("1234")
+    print("134")
