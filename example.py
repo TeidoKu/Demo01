@@ -11,6 +11,8 @@ def newfunc():
     t = 2
     print(t+1)
 
+def newstuff():
+    print("hello")
 
 if x == 3:
     print("it's a fact")
