@@ -16,6 +16,12 @@ def new45():
 def blah():
     print("eee")
 
+def conflect():
+    print("234")
+
+
+def f():
+    print("333")
 def eeee():
     print("3")
 if x == 3:
