@@ -20,6 +20,8 @@ def conflect():
     print("234")
 
 
+def f():
+    print("333")
 if x == 3:
     print("it's a fact")
 else:
