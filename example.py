@@ -16,9 +16,6 @@ def new45():
 def blah():
     print("eee")
 
-def conflect():
-    print("234")
-
 
 if x == 3:
     print("it's a fact")
