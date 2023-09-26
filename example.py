@@ -16,7 +16,8 @@ def new45():
 def blah():
     print("eee")
 
-
+def eeee():
+    print("3")
 if x == 3:
     print("it's a fact")
 else:
