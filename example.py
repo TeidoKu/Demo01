@@ -13,6 +13,8 @@ def newfunc():
 
 def newstuff():
     print("hi")
+def blah():
+    print("eee")
 
 if x == 3:
     print("it's a fact")
