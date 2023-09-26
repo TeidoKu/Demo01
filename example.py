@@ -11,7 +11,7 @@ def newfunc():
     t = 2
     print(t+1)
 
-def newstuff():
+def new45():
     print("hi")
 def blah():
     print("eee")
