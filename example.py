@@ -22,6 +22,8 @@ def conflect():
 
 def f():
     print("333")
+def eeee():
+    print("3")
 if x == 3:
     print("it's a fact")
 else:
