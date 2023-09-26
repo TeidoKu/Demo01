@@ -11,10 +11,14 @@ def newfunc():
     t = 2
     print(t+1)
 
-def newstuff():
+def new45():
     print("hi")
 def blah():
     print("eee")
+
+def conflect():
+    print("234")
+
 
 if x == 3:
     print("it's a fact")
